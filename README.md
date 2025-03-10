@@ -19,6 +19,12 @@ Currently Lightsail does not feature a Docker blueprint, but that's not really a
    chmod +x ./lightsail-compose.sh
 
    ./lightsail-compose.sh
+
+   git clone https://github.com/rhil/aws-lightsail-docker-compose-demo.git
+   cd aws-lightsail-docker-compose-demo
+   
+
+   
    ```
 
    **Note**: To see contents of that script, please visit the github repository
